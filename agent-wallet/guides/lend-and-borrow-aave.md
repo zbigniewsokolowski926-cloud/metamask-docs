@@ -57,7 +57,7 @@ confirms with you, then submits transactions with `mm wallet send-transaction`.
 | Avalanche | 43114    | `0x794a61358D6845594F94dc1DB02A252b5b4814aD` |
 | Base      | 8453     | `0x794a61358D6845594F94dc1DB02A252b5b4814aD` |
 
-Resolve token contract addresses with `mm token list search --query <SYMBOL> --chain-ids <CHAIN_ID>`.
+Resolve token contract addresses with `mm token list search <SYMBOL> --chain-ids <CHAIN_ID>`.
 
 ## Common pattern
 
